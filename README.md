@@ -16,6 +16,9 @@ This is a beginner-friendly project: a Basic AI Assistant built using **HTML**, 
 4. **Random Joke Generator**  
    - Share a random pre-set joke from a list to lighten up your day.
 
+4. **Ask me about Weather **  
+   - Can tell you about weather of different places.
+
 ## How It Works
 
 - The assistant is built with HTML for structure, CSS for styling, and JavaScript for functionality.
