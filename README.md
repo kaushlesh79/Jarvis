@@ -47,3 +47,8 @@ HTML: Provides the structure of the assistant interface.
 CSS: Adds styling and enhances the user experience.
 JavaScript: Powers the interactive features and user responses
 
+## Future Enhancements
+Add voice recognition for input.
+Use APIs for live weather data and jokes.
+Enhance the UI with animations and modern design elements
+
