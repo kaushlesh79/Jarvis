@@ -30,3 +30,13 @@ This is a beginner-friendly project: a Basic AI Assistant built using **HTML**, 
    ```bash
    git clone git@github.com:kaushlesh79/Jarvis.git
    cd basic-ai-assistant
+   ```
+2.Open the index.html file in your browser to interact with the assistant.
+   ```bash
+      basic-ai-assistant/
+├── index.html       # Main HTML structure
+├── index.css        # CSS for styling
+├── index.js        # JavaScript for functionality
+└── README.md        # Project documentation
+```
+
