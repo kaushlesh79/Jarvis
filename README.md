@@ -40,3 +40,8 @@ This is a beginner-friendly project: a Basic AI Assistant built using **HTML**, 
 └── README.md        # Project documentation
 ```
 
+## 3.Technologies Used
+HTML: Provides the structure of the assistant interface.
+CSS: Adds styling and enhances the user experience.
+JavaScript: Powers the interactive features and user responses
+
