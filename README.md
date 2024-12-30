@@ -32,7 +32,9 @@ This is a beginner-friendly project: a Basic AI Assistant built using **HTML**, 
    cd basic-ai-assistant
    ```
 2.Open the index.html file in your browser to interact with the assistant.
-   ```bash
+
+## File Structure   
+```bash
       basic-ai-assistant/
 ├── index.html       # Main HTML structure
 ├── index.css        # CSS for styling
@@ -40,7 +42,7 @@ This is a beginner-friendly project: a Basic AI Assistant built using **HTML**, 
 └── README.md        # Project documentation
 ```
 
-## 3.Technologies Used
+## Technologies Used
 HTML: Provides the structure of the assistant interface.
 CSS: Adds styling and enhances the user experience.
 JavaScript: Powers the interactive features and user responses
