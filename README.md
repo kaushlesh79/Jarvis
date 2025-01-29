@@ -49,6 +49,6 @@ JavaScript: Powers the interactive features and user responses
 
 ## Future Enhancements
 Add voice recognition for input.
-Use APIs for live weather data and jokes.
+Use APIs for live weather data and jokes. 
 Enhance the UI with animations and modern design elements
 
